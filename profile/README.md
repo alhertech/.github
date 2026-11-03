@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://alhertech.com/es/">
-    <img src="https://github.com/alhertech.png?size=200" width="100" alt="Alher Tech" />
+    <img src="assets/alher-tech.png" width="100" alt="Alher Tech" />
   </a>
 </p>
 
